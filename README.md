@@ -14,7 +14,6 @@ A powerful Chrome extension for tracking and analyzing CodeChef user ratings at 
 - **Data Export**: Export tracking results to CSV for further analysis
 - **Responsive Design**: Clean, intuitive interface with sorting capabilities
 
-![Real-time Tracking](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80)
 
 ## Performance
 
@@ -23,7 +22,6 @@ A powerful Chrome extension for tracking and analyzing CodeChef user ratings at 
 - **Smart Caching**: Reduces redundant API calls
 - **Bulk Processing**: Successfully tested with 1000+ usernames over a 50Mbps+ connection
 
-![Data Analysis](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80)
 
 ## Usage
 
@@ -34,7 +32,6 @@ A powerful Chrome extension for tracking and analyzing CodeChef user ratings at 
 5. Use "Sort by Rating" to organize results
 6. Export results to CSV using the "Export to CSV" button
 
-![Extension Demo](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80)
 
 ## Best Practices
 
@@ -51,8 +48,6 @@ A powerful Chrome extension for tracking and analyzing CodeChef user ratings at 
 - Chrome Storage API for data persistence
 - Clean, modular code architecture
 
-![Technical Architecture](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80)
-
 ## Creator
 
 Created by [@sk_siraj](https://github.com/Siraj-786)
@@ -67,4 +62,4 @@ MIT License - feel free to use and modify for your needs.
 
 **Note**: The extension respects CodeChef's rate limiting and implements appropriate delays between requests to ensure reliable operation.
 
-![Rating Analysis](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80)
+![Rating Analysis](https://raw.githubusercontent.com/Siraj-786/Codechef_Rating_Tracker/master/assets/Screenshot%202024-12-20%20210043.png)
