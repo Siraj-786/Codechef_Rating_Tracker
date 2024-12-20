@@ -63,3 +63,5 @@ MIT License - feel free to use and modify for your needs.
 **Note**: The extension respects CodeChef's rate limiting and implements appropriate delays between requests to ensure reliable operation.
 
 ![Rating Analysis](https://raw.githubusercontent.com/Siraj-786/Codechef_Rating_Tracker/master/assets/Screenshot%202024-12-20%20210043.png)
+![Excel Output](https://raw.githubusercontent.com/Siraj-786/Codechef_Rating_Tracker/master/assets/Screenshot%202024-12-20%20211927.png)
+
