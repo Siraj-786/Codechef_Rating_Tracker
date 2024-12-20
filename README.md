@@ -56,7 +56,19 @@ Created by [@sk_siraj](https://github.com/Siraj-786)
 
 MIT License - feel free to use and modify for your needs.
 
-## Direct Downlaod link :
+## Chrome Extention Link : Comming Soon
+## How to Use the Extension Locally
+
+Since the extension is not yet published, follow these steps to use it locally:
+
+1. Download this project.
+2. Open `chrome://extensions/` in your Chrome browser.
+3. Turn on **Developer mode**.
+4. Click on **Load unpacked** and select the project directory.
+5. The extension is now ready to use!
+
+![Chrome Extensions Interface](https://raw.githubusercontent.com/Siraj-786/Codechef_Rating_Tracker/master/assets/Screenshot%202024-12-20%20212812.png)
+
 
 ---
 
