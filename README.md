@@ -2,7 +2,8 @@
 
 A powerful Chrome extension for tracking and analyzing CodeChef user ratings at scale. Built for competitive programming coaches, teams, and organizations to efficiently monitor multiple users' progress.
 
-![Extension Interface]([https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80](https://github.com/Siraj-786/Codechef_Rating_Tracker/blob/master/assets/Screenshot%202024-12-20%20210043.png))
+![Extension Interface](https://raw.githubusercontent.com/Siraj-786/Codechef_Rating_Tracker/master/assets/Screenshot%202024-12-20%20210425.png)
+
 
 ## Features
 
