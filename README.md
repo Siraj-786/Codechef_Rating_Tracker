@@ -74,6 +74,7 @@ Since the extension is not yet published, follow these steps to use it locally:
 
 **Note**: The extension respects CodeChef's rate limiting and implements appropriate delays between requests to ensure reliable operation.
 
+## OnScreen Output 
 ![Rating Analysis](https://raw.githubusercontent.com/Siraj-786/Codechef_Rating_Tracker/master/assets/Screenshot%202024-12-20%20210043.png)
 .
 .
