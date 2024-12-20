@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CodeChef Rating Tracker by @sk_siraj</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>CodeChef Rating Tracker</h1>
+    <div class="trademark">by @sk_siraj</div>
+    
+    <div class="input-section">
+      <textarea id="userIds" placeholder="Enter CodeChef usernames (one per line)"></textarea>
+      <div class="button-group">
+        <button id="fetchData" class="primary-button">Fetch Data</button>
+        <button id="sortByRating" class="secondary-button">Sort by Rating</button>
+        <button id="exportExcel" class="secondary-button">Export to CSV</button>
+      </div>
+    </div>
+
+    <div id="loading" class="loading hidden">
+      <div class="progress-container">
+        <div class="progress-bar" id="progressBar"></div>
+        <span class="progress-text" id="progressText">0%</span>
+      </div>
+      <p>Fetching data...</p>
+    </div>
+
+    <div id="results" class="results-table hidden">
+      <table id="dataTable">
+        <thead>
+          <tr>
+            <th>Username</th>
+            <th>Current Rating</th>
+            <th>Stars</th>
+            <th>Contests</th>
+            <th>Recent Rating Change</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+
+    <footer class="footer">
+      <p>© 2024 @sk_siraj. All rights reserved.</p>
+    </footer>
+  </div>
+  <script src="js/utils.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/retry-manager.js"></script>
+  <script src="js/table.js"></script>
+  <script src="js/popup.js"></script>
+</body>
+</html>

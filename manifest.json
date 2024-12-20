@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "CodeChef Rating Tracker by @sk_siraj",
+  "version": "1.0",
+  "description": "Track and analyze CodeChef user ratings. Created by @sk_siraj",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "downloads",
+    "https://www.codechef.com/*"
+  ],
+  "host_permissions": [
+    "https://www.codechef.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  }
+}
